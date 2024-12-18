@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # AutoLogAnalysis
-=======
+
 # Auto Log Insights
 
 Team 15 members: Shamal Shaikh, Sailesh Dwivedy, Ghritachi Mahajani
@@ -99,4 +99,4 @@ Each service is deployed on a VM.
 - [Shamal Shaikh](https://www.linkedin.com/in/shamal-shaikh/)
 - [Sailesh Dwivedy](https://www.linkedin.com/in/saileshdwivedy/)
 - [Ghritachi Mahajani](https://www.linkedin.com/in/ghritachi-mahajani/)
->>>>>>> 12d82fb (final project commit)
+
