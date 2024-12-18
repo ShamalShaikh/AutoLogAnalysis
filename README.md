@@ -1,6 +1,4 @@
 
-# AutoLogAnalysis
-
 # Auto Log Insights
 
 Team 15 members: Shamal Shaikh, Sailesh Dwivedy, Ghritachi Mahajani
